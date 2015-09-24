@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Quality_Central</members>
+        <members>Qualityze</members>
+        <members>Qualityze_UI</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomApplicationComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>*</members>
+        <members>Account</members>
+        <members>AccountContactRole</members>
+        <members>Activity</members>
+        <members>Asset</members>
+        <members>Campaign</members>
+        <members>CampaignMember</members>
+        <members>CaseContactRole</members>
+        <members>Contact</members>
+        <members>ContentVersion</members>
+        <members>Contract</members>
+        <members>ContractContactRole</members>
+        <members>DandBCompany</members>
+        <members>DuplicateRecordItem</members>
+        <members>DuplicateRecordSet</members>
+        <members>FeedItem</members>
+        <members>ForecastingCategoryMapping</members>
+        <members>Idea</members>
+        <members>Lead</members>
+        <members>Macro</members>
+        <members>MacroAction</members>
+        <members>MacroInstruction</members>
+        <members>Opportunity</members>
+        <members>OpportunityCompetitor</members>
+        <members>OpportunityContactRole</members>
+        <members>OpportunityLineItem</members>
+        <members>Order</members>
+        <members>OrderItem</members>
+        <members>PartnerRole</members>
+        <members>Pricebook2</members>
+        <members>PricebookEntry</members>
+        <members>Product2</members>
+        <members>Site</members>
+        <members>Solution</members>
+        <members>StreamingChannel</members>
+        <members>User</members>
+        <members>UserProvisioningRequest</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomPageWebLink</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Qualityze</members>
+        <members>Qualityze/Qualityze_logo_png.png</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>DataCategoryGroup</name>
+    </types>
+    <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/NC_Creation</members>
+        <members>unfiled$public/NC_Task_Approval_request</members>
+        <members>unfiled$public/NC_Task_Approved</members>
+        <members>unfiled$public/NC_Task_Rejected</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+        <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE</members>
+        <members>unfiled$public/SalesNewCustomerEmail</members>
+        <members>unfiled$public/SupportCaseAssignmentNotification</members>
+        <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
+        <members>unfiled$public/SupportCaseCreatedWebInquiries</members>
+        <members>unfiled$public/SupportCaseResponse</members>
+        <members>unfiled$public/SupportEscalatedCaseNotification</members>
+        <members>unfiled$public/SupportEscalatedCaseReassignment</members>
+        <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
+        <members>unfiled$public/SupportSelfServiceResetPassword</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>HomePageComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>CAPA__c-CAPA Layout</members>
+        <members>Defect__c-Defect Layout</members>
+        <members>Department__c-Department Layout</members>
+        <members>Disposition_Section__c-Disposition Section Layout</members>
+        <members>NC_Product_Defect__c-NC Product Defect Layout</members>
+        <members>NC_Product__c-NC Product Layout</members>
+        <members>NC_Severity__c-NC Severity Layout</members>
+        <members>NC_Task__c-NC Task Layout</members>
+        <members>Non_Conformance__c-Non-Conformance Layout</members>
+        <members>Organization__c-Organization Layout</members>
+        <members>Process_Defect__c-Process Defect Layout</members>
+        <members>Process_Relationship__c-Process Relationship Layout</members>
+        <members>Process__c-Standard Operational Process Layout</members>
+        <members>Product2-Product Layout</members>
+        <members>Product_Defect__c-Product Defect Layout</members>
+        <members>Product_Lot_Numbers__c-Product Lot Numbers Layout</members>
+        <members>Product_Relationship__c-Product Relationship Layout</members>
+        <members>Product__c-Product %28custom%29 Layout</members>
+        <members>Risk_Lookup__c-Risk Lookup Layout</members>
+        <members>Risk_Occurrence__c-Risk Occurrence Layout</members>
+        <members>Risk_Priority__c-Risk Priority Layout</members>
+        <members>Risk_Severity__c-Risk Severity Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Letterhead</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Additional_Information__c</members>
+        <members>CAPA__c</members>
+        <members>Case</members>
+        <members>Containment_Actions__c</members>
+        <members>Defect__c</members>
+        <members>Department__c</members>
+        <members>Disposition_Section__c</members>
+        <members>Manufacturing_Site__c</members>
+        <members>NC_Product_Defect__c</members>
+        <members>NC_Product__c</members>
+        <members>NC_Severity__c</members>
+        <members>NC_Task__c</members>
+        <members>Non_Conformance__c</members>
+        <members>Organization__c</members>
+        <members>Process_Defect__c</members>
+        <members>Process_Relationship__c</members>
+        <members>Process__c</members>
+        <members>Product2</members>
+        <members>Product_Defect__c</members>
+        <members>Product_Lot_Numbers__c</members>
+        <members>Product_Relationship__c</members>
+        <members>Product__c</members>
+        <members>QC_VfsearchQueries__c</members>
+        <members>QPMS_Settings__c</members>
+        <members>Risk_Lookup__c</members>
+        <members>Risk_Occurrence__c</members>
+        <members>Risk_Priority__c</members>
+        <members>Risk_Severity__c</members>
+        <members>Site</members>
+        <members>Unit_of_Measure__c</members>
+        <members>User</members>
+        <members>UserLicense</members>
+        <members>UserProvisioningRequest</members>
+        <members>manage_namespace__c</members>
+        <name>Workflow</name>
+    </types>
+    <version>34.0</version>
+</Package>
